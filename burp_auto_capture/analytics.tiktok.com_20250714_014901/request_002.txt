@@ -1,0 +1,17 @@
+POST /api/v2/pixel/act HTTP/2
+Host: analytics.tiktok.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: text/plain;charset=UTF-8
+Content-Length: 1831
+Referer: https://vaidebet.bet.br/
+Origin: https://vaidebet.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+Priority: u=6
+Te: trailers
+
+{"event_id":"","message_id":"messageId-1752468363888-8660515619725","is_onsite":false,"timestamp":"2025-07-14T04:46:03.888Z","context":{"ad":{"sdk_env":"external","jsb_status":2},"device":{"platform":"pc"},"user":{"anonymous_id":"01K00F4RS4QV1NA0E92FGQ8YB0_.tt.2"},"pixel":{"code":"CQPR8FJC77UD2I8MH3T0","runtime":"1","codes":"CQPR8FJC77UD2I8MH3T0"},"page":{"url":"https://vaidebet.bet.br/ptb/bet/main","referrer":"","load_progress":"2"},"library":{"name":"pixel.js","version":"2.2.1"},"session_id":"7e93c7d5-6060-11f0-bb0f-02001728e355::17hHNUhWqv8khbt0awZP","pageview_id":"7e93c7d5-6060-11f0-bb0f-02001728e355-fF1MK.3.0::62768902-606d-11f0-bd03-02001716d39f","variation_id":"default","userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0","index":5,"sessions":[{"csid":"1752468339866::wxsI1myZsRlgygYCRntJ","page_csid":"1752468339866::cVFv_yBq0puZmbBF5J5X","csct":7,"pixel_code":"CQPR8FJC77UD2I8MH3T0"}]},"_inspection":{"vids":"74169685,74169794"},"properties":{},"partner":"GoogleTagManagerClient","signal_diagnostic_labels":{"raw_email":{"label":"missing"},"raw_auto_email":{"label":"missing"},"raw_phone":{"label":"missing"},"raw_auto_phone":{"label":"missing"},"hashed_email":{"label":"missing"},"hashed_phone":{"label":"missing"},"raw_eb_email":{"label":"missing"},"raw_eb_phone":{"label":"missing"}},"action":"Click","auto_collected_properties":{"page_trigger":"Click","trigger_element":{"tag":"A","attributes":{"class":"hdr-login-btn register-btn","destination":"javascript:;"},"inner_text":"CADASTRO","xpath":"/HTML/body[1]/app-root[1]/app-out-component[1]/div[1]/app-header[1]/header[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/app-login[1]/form[1]/div[1]/div[1]/div[3]/a[1]","num_child_buttons":0,"timestamp":"2025-07-14T04:46:03.882Z","position":{"x":872.61669921875,"y":13}}}}
