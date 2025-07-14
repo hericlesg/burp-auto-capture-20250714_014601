@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+Content-Type: text/plain
+Cache-Control: no-cache, no-store, must-revalidate
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Pragma: no-cache
+Date: Mon, 14 Jul 2025 04:48:44 GMT
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Server: scaffolding on HTTPServer2
+Content-Length: 0
+X-Xss-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: https://vaidebet.bet.br
+Access-Control-Expose-Headers: date,vary,vary,vary,server,content-length
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
