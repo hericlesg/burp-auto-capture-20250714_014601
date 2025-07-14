@@ -1,0 +1,12 @@
+HTTP/2 404 Not Found
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Headers: Content-Type, X-Alt-Referer
+Access-Control-Allow-Origin: https://vaidebet.bet.br
+X-Cloud-Trace-Context: 26055ac09a73278f619fbfaf95d3f0eb
+Date: Mon, 14 Jul 2025 04:48:44 GMT
+Server: Google Frontend
+Content-Length: 296
+
+{"status":404,"result":"Error: the project is canceled","data":{"ipAddress":"","countryCode":"","countryName":"","currencies":null,"languages":null,"region":"","city":"","cityLatLong":"","browser":"","browserVersion":"","deviceBrand":"","deviceModel":"","deviceFamily":"","os":"","osVersion":""}}
