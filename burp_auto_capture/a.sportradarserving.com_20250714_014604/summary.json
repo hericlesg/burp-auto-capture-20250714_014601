@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250714_014604", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/a.sportradarserving.com_20250714_014604/request_001.txt", 
+      "url": "https://a.sportradarserving.com:443/pixel?type=js&aid=1535&id=6164", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/a.sportradarserving.com_20250714_014604/response_001.txt", 
+      "timestamp": 1752468364083
+    }
+  ], 
+  "host": "a.sportradarserving.com", 
+  "total_requests": 1
+}
