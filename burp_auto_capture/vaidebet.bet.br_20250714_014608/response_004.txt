@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Content-Type: application/json
+Date: Mon, 14 Jul 2025 01:01:49 GMT
+Cloudfront-Viewer-Postal-Code: 74000
+Vary: Accept-Encoding
+X-App-Fe-Client-Version: 0
+X-Cache: Miss from cloudfront
+Via: 1.1 5798112148ae9e672af737182da15f62.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: GRU3-P1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: Xg2DiFT3oH8FbpCj69l2Q_mHwccMba6KW6zxJtor3L7Ih4NK3kSF5g==
+
+{"success":true,"responseCodes":[{"responseCode":1,"responseKey":"SUCCESS","responseMessage":"com.pronetgaming.odin.userservice.services.LoginService"}],"data":{"customerId":68615990,"traderId":537,"languageId":23,"currencyId":12,"firstName":"TAMYRES","secondName":"MOREIRA DOS","surname":"SANTOS","username":"kq7or3oemg","code":"2025066485653","email":"ta******@gm******","phone":"5571952175015","lastLoginDate":1752454906000,"birthDate":"21-06-2003","address":"13","lastLogoutDate":1752454878000,"kycVerified":true,"kycStatus":4,"type":1,"emailPromotion":true,"postPromotion":true,"smsPromotion":true,"phonePromotion":true,"thirdPartyPromotion":true,"isPhoneVerified":false,"gender":"M","countryId":116,"hasUpdatedDetail":false,"countryAbbrvt":"BRA","balance":3.02,"grossBalance":3.02,"lockedBalance":0.0,"isActiveOtp":false,"inSiteMessageNotifications":true,"scbbPermission":true,"minimal":false,"spaConsentDate":1752445299741,"vip":false}}
