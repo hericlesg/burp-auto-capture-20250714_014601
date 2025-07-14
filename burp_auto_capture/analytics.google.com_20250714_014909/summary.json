@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20250714_014909", 
+  "requests": [
+    {
+      "method": "POST", 
+      "request_file": "burp_auto_capture/analytics.google.com_20250714_014909/request_001.txt", 
+      "url": "https://analytics.google.com:443/g/collect?v=2&tid=G-833TYZP13Q&gtm=45je5791v9181266946za200zb892878899&_p=1752468351590&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&tag_exp=101509157~103116026~103200004~103233427~103351869~103351871~104573694~104684208~104684211~104908318~104908320~104909302~104909304~104935091~104935093&cid=663154045.1752362541&ul=pt-br&sr=2560x1080&frm=0&pscdl=noapi&_eu=AAAAAAQ&_s=2&sid=1752468338&sct=9&seg=1&dl=https%3A%2F%2Fvaidebet.bet.br%2Fptb%2Fauthentication%2Fsignup&dt=Vaidebet%3A%20Fa%C3%A7a%20seu%20login%20e%20comece%20a%20jogar%20-%20Vai%20de%20bet&_tu=Dg&en=user_engagement&_et=75483&tfd=188680", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/analytics.google.com_20250714_014909/response_001.txt", 
+      "timestamp": 1752468537999
+    }
+  ], 
+  "host": "analytics.google.com", 
+  "total_requests": 1
+}
